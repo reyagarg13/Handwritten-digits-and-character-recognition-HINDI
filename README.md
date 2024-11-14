@@ -1,2 +1,2 @@
-# Handwritten-digits-and-character-recognition-HINDI-.
+# Handwritten-digits-and-character-recognition-HINDI
 Devanagari Script 
