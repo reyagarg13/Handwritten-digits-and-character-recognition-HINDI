@@ -32,4 +32,7 @@ This project focuses on recognizing handwritten characters and digits from the D
 1. Clone the repository:
    ```bash
    git clone <repository-link>
+   
+2. Install dependencies:
+   pip install -r requirements.txt
 
